@@ -1,6 +1,6 @@
 # ExportPostgresqlTableSchema
 
-Environment: .NET 6
+> Environment: .NET 6
 ---
 Short code to export table schema to excel from postgresql
 
